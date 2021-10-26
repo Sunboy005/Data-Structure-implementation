@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\DataStuctureWeekTwo\bin\Debug\netcoreapp3.1\DataStuctureWeekTwo.exe
+C:\Users\hp\source\repos\DataStuctureWeekTwo\bin\Debug\netcoreapp3.1\DataStuctureWeekTwo.deps.json
+C:\Users\hp\source\repos\DataStuctureWeekTwo\bin\Debug\netcoreapp3.1\DataStuctureWeekTwo.runtimeconfig.json
+C:\Users\hp\source\repos\DataStuctureWeekTwo\bin\Debug\netcoreapp3.1\DataStuctureWeekTwo.runtimeconfig.dev.json
+C:\Users\hp\source\repos\DataStuctureWeekTwo\bin\Debug\netcoreapp3.1\DataStuctureWeekTwo.dll
+C:\Users\hp\source\repos\DataStuctureWeekTwo\bin\Debug\netcoreapp3.1\DataStuctureWeekTwo.pdb
+C:\Users\hp\source\repos\DataStuctureWeekTwo\obj\Debug\netcoreapp3.1\DataStuctureWeekTwo.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\DataStuctureWeekTwo\obj\Debug\netcoreapp3.1\DataStuctureWeekTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\DataStuctureWeekTwo\obj\Debug\netcoreapp3.1\DataStuctureWeekTwo.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\DataStuctureWeekTwo\obj\Debug\netcoreapp3.1\DataStuctureWeekTwo.AssemblyInfo.cs
+C:\Users\hp\source\repos\DataStuctureWeekTwo\obj\Debug\netcoreapp3.1\DataStuctureWeekTwo.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DataStuctureWeekTwo\obj\Debug\netcoreapp3.1\DataStuctureWeekTwo.dll
+C:\Users\hp\source\repos\DataStuctureWeekTwo\obj\Debug\netcoreapp3.1\DataStuctureWeekTwo.pdb
+C:\Users\hp\source\repos\DataStuctureWeekTwo\obj\Debug\netcoreapp3.1\DataStuctureWeekTwo.genruntimeconfig.cache
